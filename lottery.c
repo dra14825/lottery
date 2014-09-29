@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//test
 int calculate_result(int white_balls[5], int power_ball)
 {
     return 0;

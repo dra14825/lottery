@@ -5,7 +5,7 @@ int calculate_result(int white_balls[5], int power_ball)
 {
     return 0;
 }
-
+//Kommentar Merge Test
 int main(int argc, char** argv)
 {
     if (argc != 7)

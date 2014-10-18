@@ -9,6 +9,7 @@ int calculate_result(int white_balls[5], int power_ball)
 
 int main(int argc, char** argv)
 {
+
     if (argc != 5)
     {
         fprintf(stderr, "Usage: %s power_ball (5 white balls)\n", argv[0]);

@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//commentar tralala
 int calculate_result(int white_balls[5], int power_ball)
 {
     return 0;
@@ -8,7 +9,7 @@ int calculate_result(int white_balls[5], int power_ball)
 }
 
 //no elias allowed
-
+//comment lalala
 int main(int argc, char** argv)
 {
 

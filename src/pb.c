@@ -14,7 +14,7 @@ int main(int argc, char** argv)
 {
 
 
-	int favorite=0;
+	boolean favorite=false;
 
     if (argc != 5)
     {

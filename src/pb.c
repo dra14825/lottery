@@ -7,6 +7,8 @@ int calculate_result(int white_balls[5], int power_ball)
 	//asdgkasdfuka
 }
 
+//no elias allowed
+
 int main(int argc, char** argv)
 {
 
